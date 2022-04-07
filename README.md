@@ -7,5 +7,5 @@
 ![image](https://user-images.githubusercontent.com/74815634/141284627-99e86860-5610-46d3-a58b-972347e3f2cd.png)
 
   # Credits
- All credits goes to the artists and @DeViL303 for the XMBML menu.
+ All credit goes to the artists and @DeViL303.
 </div>
